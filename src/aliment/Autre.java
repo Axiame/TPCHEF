@@ -1,3 +1,5 @@
+package aliment;
+
 public class Autre extends Ingredient{
     public Autre(int id, String nom, boolean bio, int calorie) {
         super(id, nom, bio, calorie);

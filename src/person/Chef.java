@@ -1,3 +1,5 @@
+package person;
+
 import java.util.ArrayList;
 public class Chef extends Personne{
     private ArrayList<String> plat;

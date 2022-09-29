@@ -1,3 +1,5 @@
+package person;
+
 public class Padawan extends Personne {
     private Chef chef;
 

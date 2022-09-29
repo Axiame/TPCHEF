@@ -1,3 +1,9 @@
+import aliment.Epice;
+import aliment.Viande;
+import person.Chef;
+import person.Juge;
+import person.Padawan;
+
 import java.util.ArrayList;
 
 public class Main {

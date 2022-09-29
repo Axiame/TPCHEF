@@ -1,3 +1,5 @@
+package person;
+
 public class Juge extends Personne{
     private int nombreParticipation;
 
