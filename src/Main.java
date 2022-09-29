@@ -10,7 +10,8 @@ public class Main {
         ArrayList<Padawan> padawansList = new ArrayList<>();
         padawansList.add(p1);
         c1.setPadawan(padawansList);
-
-        System.out.println(p1.toString());
+        Epice e1 = new Epice(4,"Safran",true,15);
+        Viande v1 = new Viande(5,"steak",false,150,30);
+        System.out.println(v1.toString());
     }
 }
